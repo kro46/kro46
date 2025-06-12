@@ -64,8 +64,13 @@
 [![Gmail](https://img.shields.io/badge/kst1040@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kst1040@gmail.com)
 
 ---
-## 📊 GitHub Stats & BOJ Tier
 
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kst1040)](https://solved.ac/kst1040/) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kro46&show_icons=true&theme=tokyonight)
+## 🚀 Activity & Stats
+
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kro46&show_icons=true&theme=tokyonight)
+
+### 🧩 Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kst1040)](https://solved.ac/kst1040/)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100§ion=footer)
